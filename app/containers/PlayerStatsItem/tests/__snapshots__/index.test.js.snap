@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PlayerStatsItem /> should render a PlayerStatsItem 1`] = `
+<tr
+  class="Wrapper-p1o7x3-0 bHJuyz"
+>
+  <td>
+    <img
+      alt="Stan Wawrinka"
+      src="https://i.eurosport.com/_iss_/person/pp_clubteam/large/325225.jpg"
+    />
+  </td>
+  <td>
+    <img
+      alt="SUI"
+      class="CountryIcon-xrr94z-0 exvXay"
+      src="https://i.eurosport.com/_iss_/geo/country/flag/large/2213.png"
+    />
+  </td>
+  <td>
+    Stan
+     
+    Wawrinka
+  </td>
+  <td>
+    21
+  </td>
+  <td>
+    1784
+  </td>
+  <td>
+    183
+  </td>
+  <td>
+    <span>
+      81
+    </span>
+  </td>
+  <td>
+    33
+  </td>
+  <td>
+    4
+    W 
+    1
+    L
+  </td>
+</tr>
+`;

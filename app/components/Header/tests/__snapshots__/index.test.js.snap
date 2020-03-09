@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should render a div 1`] = `
+<div>
+  <a
+    class="A-br8h0y-0 A-p44m4v-0 cYguYL"
+    href="https://www.eurosport.com/"
+  >
+    Test Eurosport
+  </a>
+</div>
+`;

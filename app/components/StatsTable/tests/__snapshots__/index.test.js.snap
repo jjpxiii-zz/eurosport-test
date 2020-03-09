@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReposList /> should render the loading indicator when its loading 1`] = `
+<div
+  class="Wrapper-sc-6j63yg-0 dFyEjg"
+>
+  <div
+    class="Wrapper-sc-12uw37d-0 bTWIVF"
+  >
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 enQIMS"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 jCxmwS"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 dyFXB"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 ikwUeP"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 hwlQRz"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 jjXxyb"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 jVExkJ"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 haCVIz"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 ghhiLZ"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 bCbqdt"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 hZPQMA"
+    />
+    <div
+      class="Circle__CirclePrimitive-ww56dy-0 fsGOmP"
+    />
+  </div>
+</div>
+`;
+
+exports[`<ReposList /> should render the playerStats if loading was successful 1`] = `
+<div
+  class="Wrapper-sc-6j63yg-0 dFyEjg"
+>
+  <table
+    class="Table-sc-281zst-0 hxgHrC"
+  >
+    <thead
+      class="Thead-tjx0sx-0 dntDYx"
+    >
+      <tr>
+        <th
+          style="width: 110px;"
+        />
+        <th>
+          Country
+        </th>
+        <th>
+          Name
+        </th>
+        <th>
+          Rank
+        </th>
+        <th>
+          Points
+        </th>
+        <th>
+          Height (cms)
+        </th>
+        <th>
+          Weight (kgs)
+        </th>
+        <th>
+          Age
+        </th>
+        <th>
+          Last 5 matches
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        class="Wrapper-p1o7x3-0 bHJuyz"
+      >
+        <td>
+          <img
+            alt="Stan Wawrinka"
+            src="https://i.eurosport.com/_iss_/person/pp_clubteam/large/325225.jpg"
+          />
+        </td>
+        <td>
+          <img
+            alt="SUI"
+            class="CountryIcon-xrr94z-0 exvXay"
+            src="https://i.eurosport.com/_iss_/geo/country/flag/large/2213.png"
+          />
+        </td>
+        <td>
+          Stan
+           
+          Wawrinka
+        </td>
+        <td>
+          21
+        </td>
+        <td>
+          1784
+        </td>
+        <td>
+          183
+        </td>
+        <td>
+          <span>
+            81
+          </span>
+        </td>
+        <td>
+          33
+        </td>
+        <td>
+          4
+          W 
+          1
+          L
+        </td>
+      </tr>
+      <tr
+        class="Wrapper-p1o7x3-0 bHJuyz"
+      >
+        <td>
+          <img
+            alt="Rafael Nadal"
+            src="https://i.eurosport.com/_iss_/person/pp_clubteam/large/435121.jpg"
+          />
+        </td>
+        <td>
+          <img
+            alt="ESP"
+            class="CountryIcon-xrr94z-0 exvXay"
+            src="https://i.eurosport.com/_iss_/geo/country/flag/large/2203.png"
+          />
+        </td>
+        <td>
+          Rafael
+           
+          Nadal
+        </td>
+        <td>
+          1
+        </td>
+        <td>
+          1982
+        </td>
+        <td>
+          185
+        </td>
+        <td>
+          <span>
+            85
+          </span>
+        </td>
+        <td>
+          33
+        </td>
+        <td>
+          2
+          W 
+          3
+          L
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
